@@ -1,5 +1,2 @@
-<<<<<<< Updated upstream
 Im done..!
-=======
-Im need 20% of work..
->>>>>>> Stashed changes
+
